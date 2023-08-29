@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let me give you a g
 ## :bust_in_silhouette: About Me
 
 I'm Aditya Das,  
-A curious and aspiring Data Scientist currently pursuing my B.Tech in Data Science with a passion for all things data!<br>
+A curious and aspiring Data Scientist currently pursuing my B.Tech in Data Science with a passion for learning new things!<br>
 I'm on a journey to unravel the magic behind numbers and use them to tell compelling stories.
 ## :computer: Tech Stack
 
