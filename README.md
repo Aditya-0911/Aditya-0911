@@ -13,11 +13,6 @@ I'm on a journey to unravel the magic behind numbers and use them to tell compel
 - **Frameworks**: TensforFlow, Streamlit
 - **Tools**: PowerBI, Tableau
 
-## :books: What I'm Working On
-
-* I am working on CNN networks and learning RNN  
-* Also working on the research paper on Neural Networks
-
 ## :speech_balloon: Let's Connect
 
 I'm always open to interesting conversations and collaborations. Whether you want to discuss Machine Learning, share insights about Data Science, or just say hi, feel free to reach out to me.
