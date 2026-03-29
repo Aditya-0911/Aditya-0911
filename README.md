@@ -1,28 +1,20 @@
-# Hi there! 👋 I'm Aditya
+# Hi, I'm Aditya 👋
 
-Welcome to my GitHub profile! I'm thrilled to have you here. Let me give you a glimpse of who I am and what I'm passionate about.
+Data Scientist who enjoys building things from scratch and understanding 
+how they work under the hood.
 
-## :bust_in_silhouette: About Me
+## What I'm working on
+- Building ML systems from first principles
+- Deepening understanding of how modern deep learning actually works
+- Exploring the gap between using a framework and understanding it
 
-I'm Aditya Das,  
-A curious and aspiring Data Scientist currently pursuing my B.Tech in Data Science with a passion for learning new things!<br>
-I'm on a journey to unravel the magic behind numbers and use them to tell compelling stories.
-## :computer: Tech Stack
+## Tech Stack
+- **Core**: Python, PyTorch
+- **ML**: Deep Learning, Neural Networks, Sequence Models
+- **Tools**: Git, Jupyter, Kaggle
 
-- **Languages**: Python, R, SQL, HTML
-- **Frameworks**: TensforFlow, Streamlit
-- **Tools**: PowerBI, Tableau
-
-## :speech_balloon: Let's Connect
-
-I'm always open to interesting conversations and collaborations. Whether you want to discuss Machine Learning, share insights about Data Science, or just say hi, feel free to reach out to me.
-
-
+## Connect
 - Email: aditya0911das@gmail.com
 
-
-### :fire: My Stats :
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Aditya-0911&count_private=true&theme=tokyonight&showicons=true)]()  
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-0911&langs_count=5&theme=tokyonight)]()
-
-Thanks for visiting my profile. Feel free to explore my repositories and see what I've been up to. Looking forward to connecting with you! 🚀
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Aditya-0911&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-0911&langs_count=5&theme=tokyonight)]()
