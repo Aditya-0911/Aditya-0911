@@ -15,6 +15,3 @@ how they work under the hood.
 
 ## Connect
 - Email: aditya0911das@gmail.com
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Aditya-0911&count_private=true&theme=tokyonight&showicons=true)]()
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-0911&langs_count=5&theme=tokyonight)]()
